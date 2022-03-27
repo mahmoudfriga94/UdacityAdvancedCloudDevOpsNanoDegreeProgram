@@ -1,1 +1,1 @@
-http://mfrig-WebAp-IRS19PID5CDR-1728815139.us-west-2.elb.amazonaws.com
+http://mfrig-WebAp-BIG86BN1IDP6-805346044.us-west-2.elb.amazonaws.com
