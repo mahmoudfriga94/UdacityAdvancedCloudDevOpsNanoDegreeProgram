@@ -1,1 +1,1 @@
-http://mfrig-WebAp-BIG86BN1IDP6-805346044.us-west-2.elb.amazonaws.com
+http://mfrig-WebAp-1X17TFIM1RW8B-1701505410.us-west-2.elb.amazonaws.com
